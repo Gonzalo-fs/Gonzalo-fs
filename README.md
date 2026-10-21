@@ -24,7 +24,7 @@
 <!-- About Me with Animated Side Banner -->
 <table>
   <tr>
-    <td width="60%">
+    <td width="100%">
       <h2>⚡ Engineer at Heart</h2>
       <p>
         I’m a Full-Stack Engineer with over 5 years of experience building, scaling, and architecting software solutions. I spent my last years in a high-growth Fintech SaaS startup, navigating our successful acquisition by <b>VISMA</b>, a European tech giant.
@@ -32,9 +32,6 @@
       <p>
         I believe in <b>clean code, OOP, and SOLID principles</b> over specific tools. I leverage cutting-edge AI agents and LLM orchestration to accelerate coding, keeping my core focus on sound architectural decisions and delivering rock-solid products.
       </p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-3454628-2888518.png" width="85%" alt="Coding Animation" />
     </td>
   </tr>
 </table>
@@ -49,19 +46,16 @@
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="45" alt="Rocket" /><br />
       <b>VISMA Acquisition</b><br />
-      <sub/>Engineered & presented scalable architecture to executives during acquisition</sub>
+      <sub/>Engineered & presented scalable architecture to executives during acquisition</sub><br />
     </td>
     <td width="33%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Brain/Brain.png" width="45" alt="Brain" /><br />
       <b>+40% AI Velocity</b><br />
-      <sub>Pioneered Spec-Driven Dev (SDD), MCPs, & custom AI workflows for the team</sub>
+      <sub>Pioneered Spec-Driven Dev (SDD), MCPs, & custom AI workflows for the team</sub><br />
     </td>
     <td width="33%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Group.png" width="45" alt="Team" /><br />
       <b>Tech Onboarding Lead</b><br />
-      <sub>Mentored & onboarded 25+ developers, scaling the engineering team</sub>  
+      <sub>Mentored & onboarded 25+ developers, scaling the engineering team</sub>  <br />
       <br/>  
     </td>
   </tr>
